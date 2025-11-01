@@ -1,4 +1,3 @@
-
 # PharmaTrack - Advanced Drug Safety Intelligence Platform
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pharmatrack-system.streamlit.app/)
@@ -115,3 +114,5 @@ https://himedi-makrame.vercel.app/
 
 
 Made with ❤️ by HIMEDI Makrame [![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png)](https://github.com/makrame5)
+
+
